@@ -1,0 +1,1 @@
+Android Bar Code Scanner - This is for demo purposes only
